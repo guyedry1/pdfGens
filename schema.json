@@ -1,0 +1,167 @@
+[
+    {
+        "game": {
+            "type": "text",
+            "position": {
+                "x": 58.75,
+                "y": 112.45
+            },
+            "width": 93.15,
+            "height": 5.76,
+            "rotate": 0,
+            "alignment": "center",
+            "verticalAlignment": "top",
+            "fontSize": 16,
+            "lineHeight": 1,
+            "characterSpacing": 0,
+            "fontColor": "#000000",
+            "backgroundColor": "",
+            "opacity": 1,
+            "fontName": "simplified_arabic_bold"
+        },
+        "date": {
+            "type": "text",
+            "position": {
+                "x": 62.18,
+                "y": 120.39
+            },
+            "width": 90.51,
+            "height": 6.03,
+            "rotate": 0,
+            "alignment": "center",
+            "verticalAlignment": "top",
+            "fontSize": 13.5,
+            "lineHeight": 1,
+            "characterSpacing": 0,
+            "fontColor": "#000000",
+            "backgroundColor": "",
+            "opacity": 1,
+            "fontName": "simplified_arabic_bold"
+        },
+        "supporter_id": {
+            "type": "text",
+            "position": {
+                "x": 22.64,
+                "y": 136
+            },
+            "width": 48.17,
+            "height": 5.23,
+            "rotate": 0,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "fontSize": 12,
+            "lineHeight": 1,
+            "characterSpacing": 0,
+            "fontColor": "#000000",
+            "backgroundColor": "",
+            "opacity": 1,
+            "fontName": "simplified_arabic_bold"
+        },
+        "priceClass": {
+            "type": "text",
+            "position": {
+                "x": 22.6,
+                "y": 146.5
+            },
+            "width": 36.26,
+            "height": 4.7,
+            "rotate": 0,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "fontSize": 12,
+            "lineHeight": 1,
+            "characterSpacing": 0,
+            "fontColor": "#000000",
+            "backgroundColor": "",
+            "opacity": 1,
+            "fontName": "simplified_arabic_bold"
+        },
+        "block": {
+            "type": "text",
+            "position": {
+                "x": 70.44,
+                "y": 160.88
+            },
+            "width": 17.21,
+            "height": 12.37,
+            "rotate": 0,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "fontSize": 12,
+            "lineHeight": 1,
+            "characterSpacing": 0,
+            "fontColor": "#000000",
+            "backgroundColor": "",
+            "opacity": 1,
+            "fontName": "simplified_arabic_bold"
+        },
+        "row": {
+            "type": "text",
+            "position": {
+                "x": 114.57,
+                "y": 160.88
+            },
+            "width": 8.9,
+            "height": 8.27,
+            "rotate": 0,
+            "alignment": "center",
+            "verticalAlignment": "top",
+            "fontSize": 12,
+            "lineHeight": 1,
+            "characterSpacing": 0,
+            "fontColor": "#000000",
+            "backgroundColor": "",
+            "opacity": 1,
+            "fontName": "simplified_arabic_bold"
+        },
+        "seat": {
+            "type": "text",
+            "position": {
+                "x": 156.69,
+                "y": 160.88
+            },
+            "width": 8.9,
+            "height": 8.27,
+            "rotate": 0,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "fontSize": 12,
+            "lineHeight": 1,
+            "characterSpacing": 0,
+            "fontColor": "#000000",
+            "backgroundColor": "",
+            "opacity": 1,
+            "fontName": "simplified_arabic_bold"
+        },
+        "entrance": {
+            "type": "text",
+            "position": {
+                "x": 27.31,
+                "y": 160.88
+            },
+            "width": 8.9,
+            "height": 8.27,
+            "rotate": 0,
+            "alignment": "left",
+            "verticalAlignment": "top",
+            "fontSize": 12,
+            "lineHeight": 1,
+            "characterSpacing": 0,
+            "fontColor": "#000000",
+            "backgroundColor": "",
+            "opacity": 1,
+            "fontName": "simplified_arabic_bold"
+        },
+        "qr": {
+            "type": "image",
+            "position": {
+                "x": 78.85,
+                "y": 18.26
+            },
+            "width": 41.3,
+            "height": 39.37,
+            "rotate": 0,
+            "opacity": 1
+        }
+    }
+]
